@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Player : MonoBehaviour
+{
+    // Здоровье игрока
+    private int health = 10;
+
+    // Метод, понижающий здоровье игрока
+    public void TakeDamage(int damage)
+    {
+        health -= damage;
+        print("Получен урон: " + damage);
+    }
+
+    //
+}
