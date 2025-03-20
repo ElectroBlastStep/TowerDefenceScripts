@@ -1,0 +1,1 @@
+This repository was created in order to store scripts for our game on unity, which we study at school and only my teacher needs.
