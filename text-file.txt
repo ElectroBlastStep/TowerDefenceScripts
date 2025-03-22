@@ -1,1 +1,1 @@
-Скрипт PlayerUI использует скрипт CoinsCounter, 
+Скрипт PlayerUI использует классы CoinsCounter и Health, чтобы о отображать количество hp и монет у персонажа
