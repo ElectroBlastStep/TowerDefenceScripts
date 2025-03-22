@@ -1,0 +1,1 @@
+Скрипт PlayerUI использует скрипт CoinsCounter, 
