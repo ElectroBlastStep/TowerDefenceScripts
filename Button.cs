@@ -13,7 +13,7 @@ public class Button : MonoBehaviour
     }
 
     
-    void Update()
+    private void onTriggerEnter(Collider other)
     {
         button.enabled = true;
         toOpen.enabled = true;
